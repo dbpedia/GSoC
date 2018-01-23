@@ -4,14 +4,14 @@ This repo is used to coordinate efforts around the [Google Summer of Code](https
 The Summer of Code program sponsors students to work on Open Source projects during the summer. Many students job during summer holidays to sustain their living. Instead of that, why not exercise your skills for three months while getting paid?
 
 ## 2018
-[Project Ideas](https://github.com/dbpedia/GSoC/issues?q=is%3Aissue+is%3Aopen+label%3Aproject+label%3Agsoc-2018)
-[Mentors]()
-[Students]()
-[Program Rules]()
-[Timeline]()
-[Communication]()
+* [Project Ideas](https://github.com/dbpedia/GSoC/issues?q=is%3Aissue+is%3Aopen+label%3Aproject+label%3Agsoc-2018)
+* [Mentors]()
+* [Students]()
+* [Program Rules]()
+* [Timeline]()
+* [Communication]()
 
-Join us on Slack or comment or create an issue on this repo to discuss a specific topic.
+Join us on [Slack](https://dbpedia.slack.com/) and on the [mailing list](http://wiki.dbpedia.org/join/get-in-touch), comment or create an issue on this repo to discuss a specific topic.
 
 ## Contribute
 ### Becoming a mentor
