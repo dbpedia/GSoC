@@ -7,10 +7,10 @@ The Summer of Code program sponsors students to work on Open Source projects dur
 * [Project Ideas](https://github.com/dbpedia/GSoC/issues?q=is%3Aissue+is%3Aopen+label%3Aproject+label%3Agsoc-2018)
 * [Mentors]()
 * [Students]()
-* [Program Rules]()
-* [Timeline]()
-* [Communication]()
+* [Program Rules](https://summerofcode.withgoogle.com/rules/)
+* [Timeline](https://developers.google.com/open-source/gsoc/timeline)
 
+## Communication
 Join us on [Slack](https://dbpedia.slack.com/) and on the [mailing list](http://wiki.dbpedia.org/join/get-in-touch), comment or create an issue on this repo to discuss a specific topic.
 
 ## Contribute
