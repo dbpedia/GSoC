@@ -8,3 +8,4 @@
  * Heiko Paulheim is an assistant professor for Web Data Mining at the Data and Web Science Group at University of Mannheim. He works at the crossroads of Large-scale Knowledge Graphs and Data Mining.
  * Patrick Westphal (patrick.aksw, patrick.westphal@informatik.uni-leipzig.de, http://aksw.org/PatrickWestphal) is a PhD student at the AKSW Group, University of Leipzig, Germany and is combining Semantic Web technologies with machine learning techniques in the life science domain.
  * Magnus Knuth (mgns, knuth@informatik.uni-leipzig.de) lives in Berlin and Leipzig, Germany. He is a researcher at AKSW/KILT Group of Leipzig University and co-maintainer of DBpedia.
+ * Edgard Marx (http://aksw.org/EdgardMarx) is a PhD candidate at Leipzig University, Germany. He is a researcher at AKSW and work on better models to IR (QA, Semantic Search, and Resource Linking) over Linked Data.
