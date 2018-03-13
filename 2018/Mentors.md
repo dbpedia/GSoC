@@ -9,3 +9,4 @@
  * Patrick Westphal (patrick.aksw, patrick.westphal@informatik.uni-leipzig.de, http://aksw.org/PatrickWestphal) is a PhD student at the AKSW Group, University of Leipzig, Germany and is combining Semantic Web technologies with machine learning techniques in the life science domain.
  * Magnus Knuth (mgns, knuth@informatik.uni-leipzig.de) lives in Berlin and Leipzig, Germany. He is a researcher at AKSW/KILT Group of Leipzig University and co-maintainer of DBpedia.
  * Edgard Marx (http://aksw.org/EdgardMarx) is a PhD candidate at Leipzig University, Germany. He is a researcher at AKSW and work on better models to IR (QA, Semantic Search, and Resource Linking) over Linked Data.
+* Mariano Rico (MarianoRico, mariano.rico@upm.es) is Senior Doctor Researcher at Universidad Politécnica de Madrid (UPM), in the Ontology Engineering Gropu (OEG). He is creator and responsible for the Spanish DBpedia. His interests include Linked Data, Machine Learning and Graph visualization.
