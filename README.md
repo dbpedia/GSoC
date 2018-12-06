@@ -4,7 +4,7 @@ This repo is used to coordinate efforts around the [Google Summer of Code](https
 The Summer of Code program sponsors students to work on Open Source projects during the summer. Many students job during summer holidays to sustain their living. Instead of that, why not exercise your skills for three months while getting paid?
 
 ## 2019
-* [Project Ideas](https://github.com/dbpedia/GSoC/issues?q=is%3Aissue+is%3Aopen+label%3Aproject+label%3Agsoc-2018)
+* [Project Ideas](https://github.com/dbpedia/GSoC/issues?q=is%3Aopen)
 * [Mentors](https://github.com/dbpedia/GSoC/blob/master/2019/Mentors.md)
 * [Students](https://github.com/dbpedia/GSoC/blob/master/2018/Students.md)
 * [Program Rules](https://summerofcode.withgoogle.com/rules/)
