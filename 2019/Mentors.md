@@ -1,1 +1,19 @@
 #2019 Mentors
+Renato Fabbri
+Oğuzhan MENEMENCİOĞLU
+Julio Hernandez
+Nandana Mihindukulasooriya
+mariano Rico
+Luca Virgili
+Aman Mehta
+Nausheen Fatma
+Beyza Yaman
+Anastasia Dimou;
+Krishanu Konar
+Milan Dojchinovski
+Jens Grivolla
+Ram G Athreya
+Tommaso Soru
+Amandeep Srivastava
+Rricha Jalota
+Diego Moussallem
