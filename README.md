@@ -5,7 +5,7 @@ The Summer of Code program sponsors students to work on Open Source projects dur
 
 ## 2019
 * [Project Ideas](https://github.com/dbpedia/GSoC/issues?q=is%3Aissue+is%3Aopen+label%3Aproject+label%3Agsoc-2018)
-* [Mentors](https://github.com/dbpedia/GSoC/blob/master/2018/Mentors.md)
+* [Mentors](https://github.com/dbpedia/GSoC/blob/master/2019/Mentors.md)
 * [Students](https://github.com/dbpedia/GSoC/blob/master/2018/Students.md)
 * [Program Rules](https://summerofcode.withgoogle.com/rules/)
 * [Timeline](https://developers.google.com/open-source/gsoc/timeline)
