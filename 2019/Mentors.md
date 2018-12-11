@@ -4,4 +4,4 @@
  * Nandana Mihindukulasooriya (@nandana, http://www.nandana.org/) is researching at Universidad Politécnica de Madrid.
  * Beyza Yaman, 
  * Ricardo Usbeck (http://aksw.org/RicardoUsbeck.html) is a researcher at the University of Paderborn, Germany and his main interests are search engines, question answering, information retrieval and extraction. He wants to spark open source intelligent assistance systems using the wealth of DBpedia knowledge.
- 
+ * Diego Moussallem (http://aksw.org/DiegoMoussallem) is a researcher at the Univeristy of Leipzig and Paderborn, Germany. He investigates the use of Knowledge Graphs in NLP tasks, mainly, Entity Linking, Natural Language Generation and Machine Translation. Also, he is the current responsible for the Portuguese DBpedia.  
