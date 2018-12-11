@@ -2,6 +2,6 @@
 * Tommaso Soru (http://aksw.org/TommasoSoru) is a graduate in artificial intelligence from the U. of Milan-Bicocca, Italy and now a researcher at AKSW in Leipzig, Germany. He works on Machine Learning applied to Linked Data.
  * Mariano Rico (MarianoRico, mariano.rico@upm.es) is Senior Doctor Researcher at Universidad Politécnica de Madrid (UPM), in the Ontology Engineering Gropu (OEG). He is creator and responsible for the Spanish DBpedia. His interests include Linked Data, Machine Learning and Graph visualization.
  * Nandana Mihindukulasooriya (@nandana, http://www.nandana.org/) is researching at Universidad Politécnica de Madrid.
- * Beyza Yaman, 
+ * Beyza Yaman(yaman@infai.org, https://www.linkedin.com/in/beyza-yaman/) is a researcher in InfAI, Leipzig and responsible for Turkish DBpedia. She is interested in information retrieval, data extraction and integration over Linked Data. 
  * Ricardo Usbeck (http://aksw.org/RicardoUsbeck.html) is a researcher at the University of Paderborn, Germany and his main interests are search engines, question answering, information retrieval and extraction. He wants to spark open source intelligent assistance systems using the wealth of DBpedia knowledge.
  
