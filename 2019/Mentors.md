@@ -1,4 +1,4 @@
-https://amanmehta-maniac.github.io/# 2019 Mentors
+# 2019 Mentors
  * **Tommaso Soru** (http://tommaso-soru.it) is a Doctoral Researcher at AKSW, University of Leipzig, Germany and a Data Scientist at Semantic Integration Ltd, London, UK. He works on Machine Learning applied to Linked Data.
  * **Mariano Rico** (MarianoRico, mariano.rico@upm.es) is Senior Doctor Researcher at Universidad Politécnica de Madrid (UPM), in the Ontology Engineering Gropu (OEG). He is creator and responsible for the Spanish DBpedia. His interests include Linked Data, Machine Learning and Graph visualization.
  * **Nandana Mihindukulasooriya** (nandana@apache.org, https://www.linkedin.com/in/nandanamihindu/) is a researcher at IBM Research AI, MIT-IBM Watson AI Lab. He is interested in Linked Data, Semantic Web, Machine Learning, and Data Quality.  
