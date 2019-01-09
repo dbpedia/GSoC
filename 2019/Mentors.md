@@ -12,3 +12,5 @@
 * **Krishanu Konar** (https://www.linkedin.com/in/krishanu-konar) is currently working as a DevOps Engineer at Media.net in Mumbai, India. His interests include Machine Learning, automation, scripting, microservices architecture and general system operations. He participated in GSoC'17 as a student, as well as in GSoC'18 as a mentor.
 
 * **Rricha Jalota** (https://dice.cs.uni-paderborn.de/team/profiles/jalota/) is a developer in the Data Science Group at University of Paderborn, Germany. Her interests lie in the application of Machine Learning/Deep Learning to solve NLP tasks.
+
+* **Aman Mehta** (https://www.linkedin.com/in/aman-mehta-8368b03a/) is a undergraduate researcher at International Institute of Information Technology - Hyderabad, India. His research interests lie in Automatic Question Answering Systems over text and KBs. He was a successful student for DBpedia in GSoC'18. Find his project details here (https://amanmehta-maniac.github.io/). 
