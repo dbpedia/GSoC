@@ -14,3 +14,5 @@
 * **Rricha Jalota** (https://dice.cs.uni-paderborn.de/team/profiles/jalota/) is a developer in the Data Science Group at University of Paderborn, Germany. Her interests lie in the application of Machine Learning/Deep Learning to solve NLP tasks.
 
 * **Aman Mehta** (https://www.linkedin.com/in/aman-mehta-8368b03a/) is a undergraduate researcher at International Institute of Information Technology - Hyderabad, India. His research interests lie in Automatic Question Answering Systems over text and KBs. He was a successful student for DBpedia in GSoC'18. Find his project details here (https://amanmehta-maniac.github.io/). 
+
+* **Ram G Athreya** (https://www.linkedin.com/in/ramgathreya/) is a graduate student at Arizona State University and Google Summer of Code 2017 participant. His interests are in NLP, chatbots and question answering systems.
