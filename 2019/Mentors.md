@@ -16,3 +16,5 @@
 * **Aman Mehta** (https://www.linkedin.com/in/aman-mehta-8368b03a/) is a undergraduate researcher at International Institute of Information Technology - Hyderabad, India. His research interests lie in Automatic Question Answering Systems over text and KBs. He was a successful student for DBpedia in GSoC'18. Find his project details here (https://amanmehta-maniac.github.io/). 
 
 * **Ram G Athreya** (https://www.linkedin.com/in/ramgathreya/) is a graduate student at Arizona State University and Google Summer of Code 2017 participant. His interests are in NLP, chatbots and question answering systems.
+
+* **[Aziz Alto](https://github.com/iamaziz)** is a PhD student in computer science, Pace University. Interested in Machine Learning and its applications to language understanding. Current focus include KGs Embeddings and Q/A Systems.
