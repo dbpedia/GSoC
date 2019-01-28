@@ -18,3 +18,6 @@
 * **Ram G Athreya** (https://www.linkedin.com/in/ramgathreya/) is a graduate student at Arizona State University and Google Summer of Code 2017 participant. His interests are in NLP, chatbots and question answering systems.
 
 * **[Aziz Alto](https://github.com/iamaziz)** is a PhD student in computer science, Pace University. Interested in Machine Learning and its applications to language understanding. Current focus include KGs Embeddings and Q/A Systems.
+
+
+* **[Nausheen Fatma](https://www.linkedin.com/in/nausheenfatma/)** is a Senior Data Scientist at Naukri.com (India's leading recruitment portal company). She was a 2017 GSoC participant of DBpedia. Interested in Entity Embeddings, Entity Linking, Entity and Predicate normalization.
