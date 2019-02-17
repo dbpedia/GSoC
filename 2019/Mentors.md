@@ -20,3 +20,6 @@
 * **[Aziz Alto](https://github.com/iamaziz)** is a PhD student in computer science, Pace University. Interested in Machine Learning and its applications to language understanding. Current focus include KGs Embeddings and Q/A Systems.
 
 * **Amandeep Srivastava** (https://www.linkedin.com/in/amandeep-srivastava/) is a final year undergraduate at Indian Institute of Technology(ISM), Dhanbad, India. He is interested in Big Data, Knowledge bases & Ontology, Machine Learning and scripting.
+
+* **Nausheen Fatma** (https://www.linkedin.com/in/nausheenfatma/) is a NLP Data Scientist at Naukri.com (India's leading recruitment company). She did her Masters in Computer Science from IIIT-Hyderabad, and was a GSoC participant of Summer 2017. Her interests include Knowledge graph,and Deep Learning for NLP.
+
