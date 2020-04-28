@@ -16,11 +16,11 @@
 
 * **Rricha Jalota** (https://dice.cs.uni-paderborn.de/team/profiles/jalota/) is a developer in the Data Science Group at University of Paderborn, Germany. Her interests lie in the application of Machine Learning/Deep Learning to solve NLP tasks.
 
-* **Aman Mehta** (https://www.linkedin.com/in/aman-mehta-8368b03a/) is a undergraduate researcher at International Institute of Information Technology - Hyderabad, India. His research interests lie in Automatic Question Answering Systems over text and KBs. He was a successful student for DBpedia in GSoC'18. Find his project details here (https://amanmehta-maniac.github.io/).
+* **Aman Mehta** (https://www.linkedin.com/in/aman-mehta-8368b03a/) is an undergraduate researcher at International Institute of Information Technology - Hyderabad, India. His research interests lie in Automatic Question Answering Systems over text and KBs. He was a successful student for DBpedia in GSoC'18. Find his project details here (https://amanmehta-maniac.github.io/).
 
 * **Ram G Athreya** (https://www.linkedin.com/in/ramgathreya/) is a graduate student at Arizona State University and Google Summer of Code 2017 participant. His interests are in NLP, chatbots and question answering systems.
 
 * **[Aziz Alto](https://github.com/iamaziz)** is a PhD student in computer science, Pace University. Interested in Machine Learning and its applications to language understanding. Current focus include KGs Embeddings and Q/A Systems.
 
 * **Amandeep Srivastava** (https://www.linkedin.com/in/amandeep-srivastava/) is a final year undergraduate at Indian Institute of Technology(ISM), Dhanbad, India. He is interested in Big Data, Knowledge bases & Ontology, Machine Learning and scripting.
-* **Nausheen Fatma** (https://www.linkedin.com/in/nausheenfatma/) is a NLP Data Scientist at Naukri.com (India's leading recruitment company). She did her Masters in Computer Science from IIIT-Hyderabad, and was a GSoC participant of Summer 2017. Her interests include Knowledge graphs, and Deep Learning for NLP. 
+* **Nausheen Fatma** (https://www.linkedin.com/in/nausheenfatma/) is an NLP Data Scientist at Naukri.com (India's leading recruitment company). She did her Masters in Computer Science from IIIT-Hyderabad, and was a GSoC participant of Summer 2017. Her interests include Knowledge graphs, and Deep Learning for NLP. 
