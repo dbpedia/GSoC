@@ -9,7 +9,7 @@
 
 * **Luca Virgili** (l.virgili@pm.univpm.it, https://www.linkedin.com/in/lucavirgili) is currently a PhD student at Polytechnic University of Marche, Italy. His reseach interests involve Big Data Analytics, Network Analysis, and Cybersecurity. He participated at GSoC'17 as student and at GSoC'18 as mentor.
 
-* **Nausheen Fatma** (https://www.linkedin.com/in/nausheenfatma/) is a NLP Data Scientist at Naukri.com (India's leading recruitment company). She did her Masters in Computer Science from IIIT-Hyderabad, and was a GSoC participant of Summer 2017. Her interests include Knowledge graphs, and Deep Learning for NLP. 
+* **Nausheen Fatma** (https://www.linkedin.com/in/nausheenfatma/) is an NLP Data Scientist at Naukri.com (India's leading recruitment company). She did her Masters in Computer Science from IIIT-Hyderabad, and was a GSoC participant of Summer 2017. Her interests include Knowledge graphs, and Deep Learning for NLP. 
 
 * **Edgard Marx** (http://aksw.org/EdgardMarx) is a PhD candidate at Leipzig University affiliated also with HTWK Leipzig, Germany. He is a researcher at AKSW and work on better models to IR (QA, Semantic Search, and Resource Linking) over Linked Data.
 
