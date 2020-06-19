@@ -7,7 +7,7 @@
 
  * **Diego Moussallem** (http://aksw.org/DiegoMoussallem) is a researcher at the University of Leipzig and Paderborn, Germany. He investigates the use of Knowledge Graphs in NLP tasks, mainly, Entity Linking, Natural Language Generation and Machine Translation. Also, he is the current responsible for the Portuguese DBpedia.  
 
-* **Luca Virgili** (l.virgili@pm.univpm.it, https://www.linkedin.com/in/lucavirgili) is currently a PhD student at Polytechnic University of Marche, Italy. His reseach interests involve Big Data Analytics, Network Analysis, and Cybersecurity. He participated at GSoC'17 as student and at GSoC'18 as mentor.
+* **Luca Virgili** (l.virgili@pm.univpm.it, https://www.linkedin.com/in/lucavirgili) is currently a PhD student at Polytechnic University of Marche, Italy. His research interests involve Big Data Analytics, Network Analysis, and Cybersecurity. He participated at GSoC'17 as student and at GSoC'18 as mentor.
 
 * **Nausheen Fatma** (https://www.linkedin.com/in/nausheenfatma/) is an NLP Data Scientist at Naukri.com (India's leading recruitment company). She did her Masters in Computer Science from IIIT-Hyderabad, and was a GSoC participant of Summer 2017. Her interests include Knowledge graphs, and Deep Learning for NLP. 
 
